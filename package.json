@@ -1,0 +1,37 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/base": "^5.0.0-beta.16",
+    "@mui/icons-material": "^5.14.12",
+    "@mui/material": "^5.14.10",
+    "autosuggest-highlight": "^3.3.4",
+    "baseui": "^13.0.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "styletron-engine-atomic": "^1.6.1",
+    "styletron-react": "^6.1.1"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
