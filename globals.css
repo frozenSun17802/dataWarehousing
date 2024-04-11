@@ -1,0 +1,30 @@
+
+:root {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  margin: 0;
+  padding:0;
+}
+.MuiTypography-h1,
+.MuiTypography-h2,
+.MuiTypography-h3,
+.MuiTypography-h4,
+.MuiTypography-h5,
+.MuiTypography-h6 {
+  -moz-font-feature-settings: "salt";
+  -webkit-font-feature-settings: "salt";
+  font-feature-settings: "salt";
+}
+.MuiToolbar-root {
+  padding: 0;
+}
+/* .MuiInputLabel-root {
+  font-size: 16px;
+  font-weight: 700;
+} */
+.MuiInputLabel-asterisk {
+  font-weight: 200;
+  color: #CA2320;
+}
